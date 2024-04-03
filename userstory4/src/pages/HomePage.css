@@ -1,0 +1,9 @@
+.home-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  font-size: 2rem;
+  color: blue;
+  background-color: white;
+}
