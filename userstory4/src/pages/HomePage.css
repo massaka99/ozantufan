@@ -1,9 +1,10 @@
 .home-container {
+  height: 100vh; /* Full viewport height */
+  background-size: cover;
+  background-position: center;
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 80vh;
-  font-size: 2rem;
-  color: blue;
-  background-color: white;
+  color: #007bff;
+  font-size: 2.5rem;
 }
